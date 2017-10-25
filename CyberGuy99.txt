@@ -1,2 +1,4 @@
-Hello my name is Rushil and my favorite emoji is 👽👽👽.
-and my favorite color is burnt orange
+<<<<<<< HEAD
+Hello my name is Rushil and my favorite emoji is 👽👽👽. 
+AND my favorite color is BLUETIFUL.
+
